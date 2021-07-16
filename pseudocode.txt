@@ -1,0 +1,15 @@
+Binary search algorithm
+(while) lengte van lijst > 0
+    kijk naar midden van lijst
+    (if) als nummer gevonden is, return true
+    (else if) als midden groter is dan gezochte waarde, zoek links
+    (else if) als midden kleiner is dan gezochte waarde, zoek rechts
+return false
+
+selection sort
+Zoek de kleinste waarde in de lijst.
+Verwissel het met de eerste waarde in de lijst.
+Herhaal de bovenstaande stappen met de rest van de lijst.
+
+
+
